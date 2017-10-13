@@ -5,3 +5,4 @@ My skills include
 *C++
 *Java
 *jQuery
+*Killing history using git rebase
